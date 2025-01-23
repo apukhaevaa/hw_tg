@@ -1,7 +1,7 @@
 Внимание, прочтите условия лицензии прежде чем открывать файлы: https://github.com/apukhaevaa/hw_tg/blob/main/LICENSE
 
 
-# Telegram Bot & Flask API with Docker Integration into Server
+# Telegram Bot (@FitVoice_bot) & Flask API with Docker Integration into Server
 
 
 ## Описание проекта
